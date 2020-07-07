@@ -1,0 +1,15 @@
+.calcoleter{
+    background-color: darkgray;
+    color: black;
+    display: flex;
+    text-align: center;
+    height: 300px;
+    width: 350px;
+    margin: 40%;
+}
+.s{
+    text-align: center;
+}
+.t{
+    margin: 50px;
+}
